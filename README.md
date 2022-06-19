@@ -18,5 +18,6 @@ Optimal transport is one of the popular methodsused in ML, e.g.  for domain adap
 
 Full SPOT & DASPOT experiments' results are too big for github, so we decided to upload zip archive here -  https://drive.google.com/file/d/1FnBa1Dtf8oDaUXrUXya3n1KHm8zaoNc_/view?usp=sharing. 
 Datasets for file SPOT.ipynb can be downloaded from here - https://drive.google.com/file/d/18dEU2wH6VBLxXzvJShwPt0ePyfTsSKHb/view?usp=sharing.
+Overleaf report: https://www.overleaf.com/project/5e88efb5e03b600001260247
 
 Please, contact alexander.shumilov@skoltech.ru if links will brake or expire.
